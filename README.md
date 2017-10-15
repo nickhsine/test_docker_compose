@@ -14,7 +14,9 @@ docker-compose up
 ```
 
 ### test
-Open browser and hit `localhost:3000/`
+Since you saw the docker-compose fully processing, 
+
+and then you could open browser and hit `localhost:3000/`
 
 ### source code
 * [FE source code](https://github.com/nickhsine/test_frontend.git)
