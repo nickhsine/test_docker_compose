@@ -17,5 +17,5 @@ docker-compose up
 Open browser and hit `localhost:3000/`
 
 ### source code
-[FE source code](https://github.com/nickhsine/test_frontend.git)
-[BE source code](https://github.com/nickhsine/test_backend.git)
+* [FE source code](https://github.com/nickhsine/test_frontend.git)
+* [BE source code](https://github.com/nickhsine/test_backend.git)
